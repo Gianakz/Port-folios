@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "title": "A Little Bunny Corner",
+      "description": "A cute interactive website designed as a small digital gift, featuring animated bunnies, music, interactions, and a catch-the-bunny mini game.",
+      "category": "Creative Website",
+      "icon": "🐰",
+      "url": "https://gianakz.github.io/cautious-bassoon/",
+      "featured": true,
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "title": "Element Atlas",
+      "description": "An interactive periodic table experience where users can explore chemical elements, their properties, atomic numbers, categories, and discovery history.",
+      "category": "Educational Website",
+      "icon": "⚛️",
+      "url": "https://gianakz.github.io/solid-sniffle/",
+      "featured": true,
+      "technologies": ["HTML", "CSS", "JavaScript", "JSON"]
+    },
+    {
+      "title": "The Mesozoic Era",
+      "description": "An interactive Grade 9 educational expedition exploring dinosaurs, the Jurassic period, geology, continental drift, extinction, and Earth's history.",
+      "category": "Educational Website",
+      "icon": "🦖",
+      "url": "https://gianakz.github.io/special-invention/",
+      "featured": true,
+      "technologies": ["HTML", "CSS", "JavaScript", "SVG"]
+    }
+  ]
+}
